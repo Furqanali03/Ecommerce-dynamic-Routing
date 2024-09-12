@@ -48,7 +48,7 @@ function Home() {
               </div>
             </div>
           </div>
-        )) : <h1 className='flex justify-center items-center'>Loading...</h1>}
+        )) : <h1 className='text-center'>Loading...</h1>}
       </div>
     </>
   );
